@@ -1,0 +1,37 @@
+form {
+  /* border: 1px solid green; */
+  width: 500px;
+  position: relative;
+  left: 400px;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000;
+}
+button {
+  left: 50px;
+  position: relative;
+  width: 50px;
+  margin-right: 80px;
+}
+#fn {
+  left: 30px;
+  position: relative;
+  border: 2px solid black;
+}
+#ln {
+  left: 30px;
+  position: relative;
+  border: 2px solid black;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(61, 61, 77);
+}
+h1 {
+  margin-bottom: 50px;
+}
+
+img {
+  width: 100px;
+  margin-bottom: 30px;
+}
